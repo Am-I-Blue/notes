@@ -1,6 +1,7 @@
 ---
 title: The Girl Who Bit Me
 publish: "true"
+date: 2026-01-26
 ---
 For people who want a vampire themed spicy wlw romance this is most likely perfect. Personally I don’t mind spice but it also isn't  something I’m looking for. The rest of this review is written from that perspective.
 
