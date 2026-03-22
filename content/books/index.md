@@ -1,4 +1,4 @@
 ---
-title: books I've read
+title: books I've written about
 publish: "true"
 ---
