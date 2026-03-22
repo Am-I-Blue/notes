@@ -1,5 +1,6 @@
 ---
 title: Am I Blue
+publish: "true"
 ---
 Hi, this is the notes - low effort - version of my main site [Am I Blue](https://am-i-blue.github.io/) which is right now a giant construction site. So until then take a walk:
 [[blog/index|Blog]]

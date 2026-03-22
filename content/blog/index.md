@@ -1,3 +1,4 @@
 ---
 title: blog
+publish: "true"
 ---
