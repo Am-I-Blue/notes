@@ -4,11 +4,9 @@ publish: "true"
 ---
 hi, this is the notes - low effort - version of my main site [Am I Blue](https://am-i-blue.github.io/) which is right now a giant construction site. so until then take a walk:
 
-[[blog/index|blog]] - my random thoughs
-
-[[media_recs/index|media recs]] - things (mainly books) I've read
-
-[[lit_science_notes/index|literature science notes]] - my uni obsidian vault
+- [[blog/index|blog]] - my random thoughs
+- [[media_recs/index|media recs]] - things (mainly books) I've read
+- [[lit_science_notes/index|literature science notes]] - my uni obsidian vault
 
 * * *
 
