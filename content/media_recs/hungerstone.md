@@ -1,6 +1,6 @@
 ---
 title: Hungerstone
-publish: "true"
+publish: "false"
 date: 
 tags: [book]
 ---
