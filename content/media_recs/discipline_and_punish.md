@@ -1,7 +1,7 @@
 ---
 title: Discipline and Punish - The Birth of the Prison
 publish: "false"
-date: 
+date: 1970-01-01
 tags: [book]
 ---
 

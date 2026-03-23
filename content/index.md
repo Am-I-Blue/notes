@@ -16,8 +16,7 @@ The name of the site 'Am I Blue' is a reference to the late Gary Regans [[joy_of
 
 > Apparently, asking questions without question marks was another characteristic of [Fuka-Eri's] speech.
 
-Finding literary quotes in my cocktail book is one of the joys of life!
+Finding literary quotes in my cocktail book is one of the joys of life! [^1]
 
-* * *
 
-this site has no AI written text to waste your time
+[^1]: this site has no AI written text to waste your time

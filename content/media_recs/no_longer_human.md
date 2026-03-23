@@ -1,7 +1,7 @@
 ---
 title: No Longer Human
 publish: "true"
-date: 
+date: 1970-01-01
 tags: [book]
 ---
 

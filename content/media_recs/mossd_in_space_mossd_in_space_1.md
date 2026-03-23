@@ -1,7 +1,7 @@
 ---
 title: Moss'd in Space (Moss'd in Space, #1)
 publish: "false"
-date: 
+date: 1970-01-01
 tags: [book]
 ---
 

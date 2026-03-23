@@ -1,7 +1,7 @@
 ---
 title: Do Androids Dream of Electric Sheep?
 publish: "true"
-date: 
+date: 1970-01-01
 tags: [book]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: House of Crimson Hearts (KoIL 1)
 publish: "true"
-date: 
+date: 1970-01-01
 tags: [book]
 ---
 
