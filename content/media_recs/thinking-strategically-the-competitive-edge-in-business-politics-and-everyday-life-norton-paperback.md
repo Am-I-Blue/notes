@@ -1,5 +1,5 @@
 ---
-title: Thinking Strategically: The Competitive Edge in Business, Politics, and Everyday Life (Norton Paperback)
+title: Thinking Strategically
 publish: "true"
 date: 
 tags: [book]

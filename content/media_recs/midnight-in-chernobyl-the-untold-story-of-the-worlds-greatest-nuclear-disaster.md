@@ -1,5 +1,5 @@
 ---
-title: Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster
+title: Midnight in Chernobyl
 publish: "true"
 date: 
 tags: [book]

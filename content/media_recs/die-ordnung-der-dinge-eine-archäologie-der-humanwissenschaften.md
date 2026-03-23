@@ -1,5 +1,5 @@
 ---
-title: Die Ordnung der Dinge. Eine Archäologie der Humanwissenschaften
+title: Die Ordnung der Dinge
 publish: "true"
 date: 
 tags: [book]

@@ -1,5 +1,5 @@
 ---
-title: Meanwhile, Elsewhere: Science Fiction and Fantasy from Transgender Writers
+title: Meanwhile, Elsewhere
 publish: "true"
 date: 
 tags: [book]

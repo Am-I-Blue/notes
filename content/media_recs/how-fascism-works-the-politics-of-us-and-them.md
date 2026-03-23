@@ -1,5 +1,5 @@
 ---
-title: How Fascism Works: The Politics of Us and Them
+title: How Fascism Works
 publish: "true"
 date: 
 tags: [book]

@@ -1,5 +1,5 @@
 ---
-title: Bloom Town: Genesis
+title: Bloom Town - Genesis
 publish: "true"
 date: 
 tags: [book]

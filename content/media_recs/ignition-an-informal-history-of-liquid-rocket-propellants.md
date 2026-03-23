@@ -1,5 +1,5 @@
 ---
-title: Ignition!: An informal history of liquid rocket propellants
+title: Ignition!
 publish: "true"
 date: 
 tags: [book]

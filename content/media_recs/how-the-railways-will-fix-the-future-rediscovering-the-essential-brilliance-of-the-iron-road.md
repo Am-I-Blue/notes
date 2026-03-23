@@ -1,5 +1,5 @@
 ---
-title: How the Railways Will Fix the Future: Rediscovering the Essential Brilliance of the Iron Road
+title: How the Railways Will Fix the Future
 publish: "true"
 date: 
 tags: [book]

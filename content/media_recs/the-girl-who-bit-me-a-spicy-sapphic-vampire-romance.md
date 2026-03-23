@@ -1,5 +1,5 @@
 ---
-title: The Girl Who Bit Me: A Spicy Sapphic Vampire Romance
+title: The Girl Who Bit Me
 publish: "true"
 date: 
 tags: [book, reviewed]

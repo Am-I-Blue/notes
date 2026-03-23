@@ -1,5 +1,5 @@
 ---
-title: Confessions of a Recovering Engineer: Transportation for a Strong Town
+title: Confessions of a Recovering Engineer
 publish: "true"
 date: 
 tags: [book]

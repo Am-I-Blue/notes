@@ -1,5 +1,5 @@
 ---
-title: Core Syntax: A Minimalist Approach
+title: Core Syntax - A Minimalist Approach
 publish: "true"
 date: 
 tags: [book]

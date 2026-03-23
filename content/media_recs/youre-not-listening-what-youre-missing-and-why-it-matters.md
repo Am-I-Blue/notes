@@ -1,5 +1,5 @@
 ---
-title: You're Not Listening: What You're Missing and Why It Matters
+title: You're Not Listening
 publish: "true"
 date: 
 tags: [book]

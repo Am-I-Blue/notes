@@ -1,5 +1,5 @@
 ---
-title: Superheavy: Making and Breaking the Periodic Table (Bloomsbury Sigma)
+title: Superheavy
 publish: "true"
 date: 
 tags: [book]

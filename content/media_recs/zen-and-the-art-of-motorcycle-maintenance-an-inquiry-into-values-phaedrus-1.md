@@ -1,5 +1,5 @@
 ---
-title: Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)
+title: Zen and the Art of Motorcycle Maintenance
 publish: "true"
 date: 
 tags: [book]

@@ -1,5 +1,5 @@
 ---
-title: Nineteen Eighty-Four
+title: Nineteen Eighty Four
 publish: "true"
 date: 
 tags: [book]

@@ -1,5 +1,5 @@
 ---
-title: Blue Bamboo: Japanese Tales of Fantasy
+title: Blue Bamboo
 publish: "true"
 date: 
 tags: [book]

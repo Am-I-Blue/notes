@@ -1,5 +1,5 @@
 ---
-title: Bloom Town: Exodus
+title: Bloom Town - Exodus
 publish: "true"
 date: 
 tags: [book]
