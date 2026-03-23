@@ -1,0 +1,4 @@
+---
+title: Strukturalismus
+publish: "true"
+---
