@@ -1,4 +1,0 @@
----
-title: books
-publish: "true"
----
