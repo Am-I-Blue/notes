@@ -1,4 +1,4 @@
 ---
 title: term papers
-publish: "false"
+publish: "true"
 ---
