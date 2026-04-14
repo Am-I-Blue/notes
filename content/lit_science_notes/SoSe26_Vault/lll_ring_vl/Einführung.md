@@ -4,24 +4,25 @@ publish: "false"
 date: 2026-04-13
 ---
 ## Einführung
-nur als take home exam zu spezifischen wochen
+weil Ring, nur als take home exam zu spezifischen wochen
 - Rally ausstellung test
 
-## Inhalt
+### Inhalt
 - Was ist jugendliteratur in Forschung?
-- Text __extern__:
-	kein Genre in Deutschland, aber in Amerika
-es gibt zuschreibungen die paratextuel jugend addresieren z.b altersempfehlung, oder im Regal im Laden
+
+#### Text extern:
+- kein algemeines Genre in Deutschland, aber in Amerika
+- es gibt zuschreibungen die paratextuel jugend addresieren z.b altersempfehlung, oder im Regal im Laden
 - kann auch schon vom Autor entschieden werde oder erst der Lektor oder nachträglich für jugend Preise nominiert
-- schwierig Histoisch
+- zuteilungen schwanken Historisch deswegen schwierig
 
-__Text intern:__
-bestimmte themen, spezifische Probleme ider Themenfür jugentliche
-- schwierig weil erwachsene auch lesen
-	* alle themen kommen in lit vor auch steuer erklärung
-	* bei mädchen roman heufig perspektive der Eltern nicht des Kindes
+#### Text intern:
+- von bestimmten Themen abhängig, spezifische Probleme für Jugentliche
+- schwierig weil Erwachsene mitlerweile auch diese Bücher lesen
+	* alle Themen kommen in jug.lit. vor sogar Steuererklärung
+	* bei Mädchenromanen heufig Perspektive der Eltern, nicht des Kindes
 
-__die frage ob jugend lit muss bei jedem werk selbst entschieden werde__
+> _Die frage ob es sich um Jugend Literatur handelt, muss bei jedem Werk selbst entschieden werden._
 
 ***
 
