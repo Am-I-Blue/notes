@@ -21,3 +21,5 @@ __Kurbjuhn(2016) Vom physiognomischen Fragment zum Röntgenatlas:__
 - das Herz von einer Idee wird reduziert auf den physischen Horror (S.241)
 - "Im Himmelslicht erscheint selbst die Rönt-
 genphotographie noch humanistisch."(S.244)
+
+### Dijck(2005) MEDIATED BODIES AND THE IDEAL OF TRANSPARENCY
