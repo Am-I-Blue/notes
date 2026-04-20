@@ -23,3 +23,6 @@ __Kurbjuhn(2016) Vom physiognomischen Fragment zum Röntgenatlas:__
 genphotographie noch humanistisch."(S.244)
 
 ### Dijck(2005) MEDIATED BODIES AND THE IDEAL OF TRANSPARENCY
+> Thomas Mann's Magic Mountain shows how X rays were also thought to visualize intimate feelings such as love, and prove the existence of the spiritual self after death. Mann's novel does not simply reflect these beliefs, but problematizes the cultural conceptions inspired by medical-scientific axioms.
+
+__positivism__
