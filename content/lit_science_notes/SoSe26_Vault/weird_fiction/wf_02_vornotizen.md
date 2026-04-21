@@ -9,3 +9,12 @@ date: 2026-04-15
 - die "little people" begehen schreckliche Verbrechen im Walt wie Mord und Vergewaltigung (nach paper)
 - Gregg und little people kommen in mehreren von Machens Werken vor
     * The Red Hand, 
+* Thema des [[Terrors]]  
+
+Lallys Vater war engineur und stirbt (versagt) vgl. klassische Wissenschaft
+
+Lally trifft den Proffesor (die) Warheit kurz vor dem Tod
+
+"Geheimniss des Erfolges"
+
+Klassische Bildung ist schadhaft "self-education, the only education which is not infinitely pernicious(exceedingly harmful)" 
