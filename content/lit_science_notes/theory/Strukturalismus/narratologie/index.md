@@ -1,4 +1,0 @@
----
-title: Narratologie
-publish: "true"
----
